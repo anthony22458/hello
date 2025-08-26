@@ -8,6 +8,7 @@
 
     printf("Hello, I'm Anthony Aviles Truong!\n");
     printf("Major is Electrical Engineering!\n");
+    printf("Minor is Undecided!\n");
 
     return 0;
  }
